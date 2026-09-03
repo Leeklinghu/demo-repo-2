@@ -1,0 +1,10 @@
+
+*.class
+build/
+target/
+.DS_Store
+.vscode/
+.env
+secrets.json
+*.log
+logs/
